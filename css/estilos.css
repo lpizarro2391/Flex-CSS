@@ -53,4 +53,5 @@ body {
 
 .contenedor{
   display: flex;
+  flex-direction: row-reverse;
 }
