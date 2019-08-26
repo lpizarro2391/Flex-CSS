@@ -4,7 +4,7 @@ body {
 }
 div[class*="bloque"]{
   min-height: 200px;
-  flex-basis: 40%
+  flex: 1 2 40%;
 }
 
 .bloque1 {
